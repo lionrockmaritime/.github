@@ -11,7 +11,7 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 - Branch name & commit involved
 - If applicable, input arguments
 - If applicable, main code lines affected
